@@ -4,6 +4,8 @@
 
     <!-- Main Activity Strings -->
     <string name="txtLogo">Spotnik</string>
+    <string name="txtSpotify">Spotify</string>
+    <string name="txtSpotifySubTitle">Search for your Favorite Music.</string>
 
     <!-- Action Menu Strings -->
     <string name="action_settings">Settings</string>
